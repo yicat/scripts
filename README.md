@@ -1,1 +1,4 @@
 # scripts
+
+- vim
+- tmux
